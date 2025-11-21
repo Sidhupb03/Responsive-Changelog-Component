@@ -1,8 +1,4 @@
 # Responsive-Changelog-Component
-Sure! Here is a clean, professional **README.md** you can use for your vertical timeline project.
-
----
-
 # **Vertical Timeline Component – HTML & CSS**
 
 This project is a clean, responsive vertical timeline built using **pure HTML and CSS**. It highlights events or milestones in a structured, visually appealing format using CSS Grid for alignment and flexible spacing. The layout remains simple, modern, and adapts well to different screen sizes.
